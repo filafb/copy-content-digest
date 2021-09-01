@@ -62,6 +62,7 @@ mutation saveRoute($args: NewRouteInput){
 - When openning the modal to copy content, the slug that appers is the one for page `x`;
 - If copy content to page that doesn't have that page, it will have the slug of the page `x`;
 - If copy page to page that already have that route, it remains the current slug.
+- Should the user be able to give the slug to the page in the target bindings?
 
 <details>
 
