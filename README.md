@@ -1,10 +1,11 @@
 # Copy Content Digest
 
 ## Migration Script
-- [TL;DR](/docs/migrate-flow/##TL;DR)
-- [Questions](/docs/migrate-flow/##questions)
-- [To investigate](/docs/migrate-flow/##to-investigate)
-- [To do](/docs/migrate-flow/##to-do)
-- [Flow detail](/docs/migrate-flow/##flow-detail)
-- [To remember](/docs/migrate-flow/##to-remember)
+- [TL;DR](/docs/migrate-flow.md##tldr)
+- [Questions](/docs/migrate-flow.md##questions)
+- [To investigate](/docs/migrate-flow.md##to-investigate)
+- [To do](/docs/migrate-flow.md##to-do)
+- [Flow detail](/docs/migrate-flow.md##flow-detail)
+- [To remember](/docs/migrate-flow.md##to-remember)
+
 
