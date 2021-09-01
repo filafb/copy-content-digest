@@ -56,6 +56,13 @@ mutation saveRoute($args: NewRouteInput){
 1. Bug
 - `vtex.pages-graphql` returns an error when pages doesn't have `content` and the page get stuck in `saving...` status. [code](https://github.com/vtex/pages-graphql/blob/f018e7cfd1b8bf8558aa5a724f26c9a415b0186f/node/v2/resolvers/copyBindingContent.ts#L48-L50)
 
+2. Bug / UX
+- Copy an existing page from binding `y` to binding `x`;
+- On `pages`, change the slug for that page on binding `x`;
+- When openning the modal to copy content, the slug that appers is the one for page `x`;
+- If copy content to page that doesn't have that page, it will have the slug of the page `x`;
+- If copy page to page that already have that route, it remains the current slug.
+
 <details>
 
 _Fail to copy_
