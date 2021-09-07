@@ -103,6 +103,7 @@ mutation {
 - [] Refactor HOC `withBindingsContent.tsx` to pass props via Context - Not a blocker, better readability
 - [] Add feature to allow copy to specifics supportedLocales - Not a blocker, better UX
 - [] Remove `Beta alert`
+- [] Investigate and fix possible bugs found
 
 ---
 ## Flow detail
