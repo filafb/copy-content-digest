@@ -22,14 +22,15 @@ http://vbase.aws-us-east-1.vtex.io/${account}/${workspace}/buckets/vtex.pages-gr
 
 ## Next tasks
 
-- [] Add `I18n`
-- [] Add better spinner on `BindingCloneModal`
-- [] Refactor / Add error handling on `BindingCloneModal`
-- [] Better error handler when saving content on `applyChanges` function
-- [] Refactor HOC `withBindingsContent.tsx` to pass props via Context - Not a blocker, better readability
-- [] Add feature to allow copy to specifics supportedLocales - Not a blocker, better UX
-- [] Remove `Beta alert`
-- [] Investigate and fix possible bugs found
+- [ ] Add `I18n`
+- [ ] Add better spinner on `BindingCloneModal`
+- [ ] Refactor / Add error handling on `BindingCloneModal`
+- [ ] Better error handler when saving content on `applyChanges` function
+- [ ] Refactor HOC `withBindingsContent.tsx` to pass props via Context - Not a blocker, better readability
+- [ ] Add feature to allow copy to specifics supportedLocales - Not a blocker, better UX
+- [ ] Remove `Beta alert`
+- [ ] Investigate and fix possible bugs found
+
 ## Migration Script
 - [TL;DR](https://github.com/filafb/copy-content-digest/blob/main/docs/migrate-flow.md#tldr)
 - [Questions](https://github.com/filafb/copy-content-digest/blob/main/docs/migrate-flow.md#questions)
