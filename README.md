@@ -46,3 +46,7 @@ http://vbase.aws-us-east-1.vtex.io/${account}/${workspace}/buckets/vtex.pages-gr
 - [To investigate](https://github.com/filafb/copy-content-digest/blob/main/docs/copy-content-flow.md#to-investigate)
 - [To do](https://github.com/filafb/copy-content-digest/blob/main/docs/copy-content-flow.md#to-do)
 - [Flow detail](https://github.com/filafb/copy-content-digest/blob/main/docs/copy-content-flow.md#flow-detail)
+
+Docs:
+
+[Site Editor Content Translations](https://www.notion.so/vtexhandbook/Site-Editor-Content-Translations-WIP-e9081727e7b443a08a89172c5c7f3e37)
